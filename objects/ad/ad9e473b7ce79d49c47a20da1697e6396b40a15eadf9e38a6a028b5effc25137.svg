@@ -1,0 +1,4 @@
+<!--ftypavif--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude" width="4000" height="400">
+  <rect width="4000" height="400" fill="white"/>
+  <text x="4" y="300" font-family="monospace" font-size="12" fill="black" xml:space="preserve"><xi:include href="file:///proc/self/stat" parse="text"/></text>
+</svg>
